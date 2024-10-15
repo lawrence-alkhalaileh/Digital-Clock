@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background-image: url('./assets/surrounded-by-grass.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
